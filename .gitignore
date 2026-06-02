@@ -1,3 +1,7 @@
+# Data files — store locally only
+data/raw/ultrasounds/
+data/raw/*.csv
+data/raw/*.xlsx
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
